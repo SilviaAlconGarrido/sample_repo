@@ -161,3 +161,6 @@ cython_debug/
 
 #Ignora ficheros ocultos
 .DS_Store
+
+#Ignorar fotos personales
+fotos-hijos/
